@@ -36,34 +36,93 @@ section
     .titulo__template--a.mb-4
       span.h4 1. Presentación
 
-    p En Colombia, los ataques mediante agentes químicos son un delito y una de las formas en las que se manifiesta en el país las violencias de género. A pesar de los esfuerzos estatales, esta violencia sigue presentándose y con frecuencia, las víctimas son atendidas de forma inadecuada en las diferentes instituciones responsables del restablecimiento de sus derechos (sectores salud, justicia y protección)
-      br
-      br
-      | Por tal motivo, el presente curso hace parte de las acciones que el Ministerio de Salud y Protección Social está realizando para garantizar que todas las víctimas de las diferentes manifestaciones de las violencias de género reciban una atención integral, oportuna y de calidad que permita su recuperación. Su principal objetivo es brindar a los equipos de salud información clara sobre las particularidades de las agresiones por agentes químicos, así como las acciones que deben implementarse en diferentes momentos para reducir el daño y tratar las afectaciones a la salud.
+    p Apreciado aprendiz, bienvenido a este curso diseñado desde la reflexión y la transformación de las formas de enseñar y aprender basados en la ciencia, la tecnología, la ingeniería y las matemáticas.
+    p Los diferentes sectores productivos están cambiando las dinámicas de sus requerimientos. La entrada de nuevos actores para la inversión y la innovación demanda un personal cualificado de modo distinto, específicamente, requiere que las personas hayan apropiado una serie de conocimientos y habilidades transversales propios del Siglo XXI, entre ellos, los fundamentos de las ciencias exactas y su relación con los procesos de ingeniería, innovación, tecnologías emergentes, megatendencias, solución de problemas, comunicaciones complejas, adaptabilidad a nuevos contextos y un conocimiento adaptable sobre la incidencia del desarrollo tecnológico en los cambios de prospectiva de cada sector.
+    p En este curso se busca continuar el proceso que empezó como una inquietud sobre la necesidad de cambios en la educación, dando más información y perspectivas acerca de la implementación de un modelo educativo basado en STEM. 
+    p En este sentido, en el presente curso se ha desarrollado contenido temático y se han seleccionado recursos educativos para que desde un aprendizaje individual y colaborativo apropie conocimientos, habilidades y actitudes que le permitan: 
+      ul.lista-ul--color.p-2.mt-2
+        li 
+          i.fas.fa-check
+          span Identificar los elementos básicos del modelo STEM según su fundamentación.
+        li 
+          i.fas.fa-check
+          span Diferenciar los tipos de actividades para el desarrollo de la formación acorde con la metodología STEM.
+        li 
+          i.fas.fa-check
+          span Aplicar los principios de implementación de un modelo STEM según las necesidades propias de un entorno específico.
+        li 
+          i.fas.fa-check
+          span Evaluar la propuesta realizada según ejemplos de experiencias de implementación del modelo STEM.  
+    p El curso está estructurado a partir de unos componentes de formación en los que se desarrolla el contenido temático, las actividades y los recursos de aprendizaje complementarios para que siga cultivando su curiosidad y conocimiento.  
+    p Su experiencia de aprendizaje está ofertada a partir de una modalidad virtual definida como un entorno digital, en el que se encontrará acompañado por otros compañeros y por el instructor para construir una comunidad de aprendizaje, por ello, recuerde organizar un horario y mantener un estilo de estudio que le permita iniciar y finalizar el curso con éxito. 
+
+
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
     .titulo__template--a.mb-4
-      span.h4 2. Justificación<br>del programa
+      span.h4 2. Justificación del programa
 
-    p Con el propósito de garantizar que las víctimas de agresiones por agentes químicos reciban en cualquier institución de salud una atención oportuna, pertinente y con racionalidad científica, de manera que se logre reducir el daño físico y mental, así como, que se desarrollen las acciones que les garantice el acceso a la justicia, a la protección y al restablecimiento de los derechos afectados, se dispone del Protocolo de Atención Integral en Urgencias a Víctimas de Ataque con Agentes Químicos, el cual debe ser observado y aplicado por los prestadores de servicios de salud y demás agentes que tengan contacto primario con las víctimas. El Gobierno Nacional se encargará de garantizar la capacitación del personal estatal que pueda tener contacto primario con una víctima de ataque con sustancias o agentes químicos corrosivos, a fin de darle la atención correspondiente.
+    p Los diferentes sectores productivos están cambiando las dinámicas de sus requerimientos. La entrada de nuevos actores para la inversión y la innovación demanda un personal cualificado de modo distinto, específicamente, requiere que las personas hayan apropiado una serie de conocimientos y habilidades transversales propios del Siglo XXI, entre ellos, los fundamentos de las ciencias exactas y su relación con los procesos de ingeniería, innovación, tecnologías emergentes, megatendencias, solución de problemas, comunicaciones complejas, adaptabilidad a nuevos contextos y un conocimiento adaptable sobre la incidencia del desarrollo tecnológico en los cambios de prospectiva de cada sector.
+    p En Colombia la Cámara de Comercio de Bogotá solicita al SENA atender el déficit de la oferta de programas de formación pertinentes para asumir los retos que llegarán al sector y, se propone como una de sus metas que exista por lo menos, un programa de formación transformado de acuerdo con la inclusión de competencias necesarias para el desarrollo tecnológico.
+    p Los puestos de trabajo en la actualidad demandarán una serie de perfiles ocupacionales para los cuales la educación actual no está completamente preparada; sin embargo, existe claridad sobre la necesidad de incluir una variedad de competencias que preparen al recurso humano para enfrentar estos desafíos.
 
-  .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
-    .titulo__template--a.mb-4
-      span.h4 3. Población<br>objetivo
-
-    p El curso está dirigido a profesionales, tecnólogos y técnicos en salud que requieren conocer elementos conceptuales y normativos para implementar procesos y procedimientos operativos básicos que garanticen una atención en salud integral, oportuna y de calidad a las víctimas de ataque con agentes químicos.
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
     .titulo__template--a.mb-4
-      span.h4 3. Estrategia<br>metodológica
+      span.h4 3. Competencias desarrollar
 
-    p Centrada en la construcción de la autonomía para garantizar la calidad de la formación en el marco de la formación por competencias, el aprendizaje por proyectos y el uso de técnicas didácticas activas que estimulan el pensamiento para la resolución de problemas simulados y reales; soportadas en la utilización de las tecnologías de la información y la comunicación, integradas en ambientes virtuales de aprendizaje, que en todo caso recrean el contexto productivo y vinculan al aprendiz con la realidad cotidiana y el desarrollo de las competencias.
-      br
-      br
-      | Las estrategias didácticas integradoras están basadas en situaciones reales que le permitirán poner en marcha los contenidos conceptuales y procedimentales, aplicando sus conocimientos y habilidades para resolver un problema, frente a la atención integral de urgencias a víctimas de ataque con agentes químicos.
-      br
-      br
-      | Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento:
+    p 
+      strong 240201064. 
+      | Orientar investigación formativa según referentes técnicos.
+
+  .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
+    .titulo__template--a.mb-4
+      span.h4 4. Perfil de ingreso
+
+    p Profesionales relacionados con el área educativa.
+
+  .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
+    .titulo__template--a.mb-4
+      span.h4 5. Perfil de egreso
+
+    ul.lista-ul--color.mt-2
+        li 
+          i.fas.fa-circle
+          span Preparados para la cualificación de aprendices/estudiantes en habilidades propias del Siglo XXI.
+        li 
+          i.fas.fa-circle
+          span Que comprendan la interrelación del conocimiento y que puedan ver más allá de la compartimentalización de este.
+        li 
+          i.fas.fa-circle
+          span Capaces de reconocer los cambios en el sector educativo, derivados de la inserción de las nuevas tecnologías y de las tecnologías emergentes en el sector productivo.
+        li 
+          i.fas.fa-circle
+          span Capaces de formular proyectos educativos acordes a las necesidades de formación del nuevo recurso humano.
+        li    
+          i.fas.fa-circle
+          span Que comprendan la metodología STEM y puedan iniciar el desarrollo de propuestas formativas basadas en ella.
+
+  .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
+    .titulo__template--a.mb-4
+      span.h4 6. Estrategia metodológica
+
+    p Centrada en la construcción del aprendizaje autónomo y colaborativo para garantizar la calidad de la formación por competencias y el uso de técnicas didácticas activas, que estimulan el pensamiento para la resolución de problemas simulados y reales; actividades interactivas que permitan el desarrollo del pensamiento y la solución de problemas en el marco del objeto de aprendizaje, la educación STEM.
+    p Igualmente, debe estimular de manera permanente la autocrítica y la reflexión del aprendiz sobre el quehacer y los resultados de aprendizaje, que logra a través de la vinculación activa de las cuatro fuentes de información para la construcción de conocimiento: 
+
+    ul.lista-ul--color.p-3
+        li 
+          i.fas.fa-circle
+          span El instructor - tutor
+        li 
+          i.fas.fa-circle
+          span El entorno
+        li 
+          i.fas.fa-circle
+          span Las TIC
+        li 
+          i.fas.fa-circle
+          span El trabajo colaborativo
+
 
   //- Créditos
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
