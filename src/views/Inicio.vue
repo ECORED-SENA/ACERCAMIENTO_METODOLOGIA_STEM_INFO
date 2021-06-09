@@ -13,7 +13,7 @@ section
             ul
               li.mb-1.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Nombre del programa: 
-                p.banner-principal__datos__item__texto Acercamiento a la metodología STEM: ideas para implementarla
+                p.banner-principal__datos__item__texto Acercamiento a la metodología STEM: que es e ideas para implementarla
               li.mb-1.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Código: 
                 p.banner-principal__datos__item__texto 41220017

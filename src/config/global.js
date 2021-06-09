@@ -55,7 +55,13 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: ' ',
+        nombre: [
+          'Zuleidy Maria Ruiz Torres',
+          'Wilson Andrés Arenales Caceres',
+          'Gilberto Junior Rodriguez Rodriguez',
+          'Daniela Muñoz Bedoya',
+          'Andrés Felipe Herrera',
+        ],
         cargo: 'Producción audiovisual',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
