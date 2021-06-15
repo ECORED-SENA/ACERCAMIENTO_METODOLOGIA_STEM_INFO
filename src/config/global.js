@@ -79,8 +79,8 @@ export default {
         regional: 'Regional Santander',
       },
       {
-        nombre: ' ',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Jhana Johanna Bustillo Ardila',
+        cargo: 'Revisión de contenido',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
