@@ -70,7 +70,7 @@ section
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
     .titulo__template--a.mb-4
-      span.h4 3. Competencias desarrollar
+      span.h4 3. Competencias a desarrollar
 
     p 
       strong 240201064. 

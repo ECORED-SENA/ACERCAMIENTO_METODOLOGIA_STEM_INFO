@@ -23,6 +23,12 @@ export default {
         regional: 'Regional Distrito Capital',
       },
       {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica del Sena',
+        regional: 'Regional Distrito Capital',
+      },
+      {
         nombre: 'Carolina Coca Salazar',
         cargo: 'Revisión metodológica y pedagógica',
         centro: 'Centro de Diseño y Metrología',
